@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# MultiSignature Wallet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+### Contract Address: 0x46911ffC2f9ad12344f99d01b75f33044a77F9f6 (goerli)
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
